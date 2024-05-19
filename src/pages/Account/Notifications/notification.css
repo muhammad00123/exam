@@ -1,0 +1,44 @@
+.blovs {
+  display: flex;
+  gap: 33px;
+}
+
+.ema {
+  width: 21px;
+  height: 21px;
+}
+.email_tit {
+  /* Web/H6 */
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-left: 10px;
+}
+.blov {
+  width: 392px;
+  height: 120px;
+  margin-top: 50px;
+}
+.blov_titl1 {
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+}
+.bllov_imp {
+  margin-left: 209px;
+}
+.wt {
+  /* Web/Body-md */
+  color: rgb(113, 113, 113);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-left: 30px;
+}

@@ -1,0 +1,71 @@
+.blok_cardf {
+  display: flex;
+  gap: 20px;
+}
+
+.blok_card {
+  width: 392px;
+  height: 350px;
+  border: 1px solid black;
+  margin-top: 40px;
+}
+.blog_main{
+    display: flex;
+}
+.blok_card h1 {
+  /* Web/H5 */
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0%;
+  margin-left: 20px;
+}
+
+.blok_card p {
+  /* Web/Body-md */
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 8px;
+}
+
+.posts {
+  /* Web/H4 */
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 59px;
+}
+
+.blok_right_main {
+  display: flex;
+  margin-top: 20px;
+}
+
+.vidyo {
+  /* Web/H5 */
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 94px;
+  margin-left: 25px;
+}
+.vidyo_img{
+    margin-top: 24px;
+    margin-left: 24px;
+}

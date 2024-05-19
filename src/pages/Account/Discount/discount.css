@@ -1,0 +1,65 @@
+.dics {
+  /* Web/H5 */
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 20px;
+}
+.code {
+  color: rgb(113, 113, 113);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.label {
+  display: flex;
+  justify-content: space-between;
+
+  box-sizing: border-box;
+  /* Neutral/Gray F6F6F6 */
+  border: 1px solid rgb(246, 246, 246);
+  border-radius: 8px;
+
+  /* Neutral/Gray F9F9F9 */
+  background: rgb(249, 249, 249);
+  margin-top: 20px;
+  padding: 10px;
+}
+.label1 {
+  margin-left: 5px;
+  /* Web/Body-md */
+  color: rgb(113, 113, 113);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.lab {
+  width: 24px;
+  height: 24px; /* Primary */
+  color: rgb(12, 104, 244);
+}
+.label2 {
+  margin-right: 5px;
+}
+.can {
+  /* Web/Body-md */
+  color: rgb(113, 113, 113);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 10px;
+}

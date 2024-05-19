@@ -1,0 +1,123 @@
+.logo {
+  /* Primary */
+  width: 43px;
+  height: 37px;
+  color: rgb(12, 104, 244);
+}
+.contact_head {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 94px;
+  align-items: center;
+}
+
+.contact_card {
+  width: 133px;
+  height: 136px;
+  border: 3px solid rgba(0, 0, 0, 0);
+  text-align: center;
+}
+
+.contact_title {
+  /* Web/H5 */
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.message {
+  /* Web/H4 */
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 29px;
+  letter-spacing: 0%;
+  margin-left: 100px;
+}
+.main_left p {
+  width: 496px;
+  /* Web/Body-xl */
+  color: rgb(113, 113, 113);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0%;
+  text-align: justify;
+  margin-left: 100px;
+  margin-top: 24px;
+}
+.sect_mains {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.name_inp {
+  width: 392px;
+  height: 48px;
+  box-sizing: border-box;
+  /* Neutral/Gray B4B4B4 */
+  border: 1px solid rgb(180, 180, 180);
+  border-radius: 8px;
+}
+.name_inp::placeholder {
+  padding-left: 30px;
+}
+.email_inp {
+  width: 392px;
+  height: 48px;
+  box-sizing: border-box;
+  /* Neutral/Gray B4B4B4 */
+  border: 1px solid rgb(180, 180, 180);
+  border-radius: 8px;
+  margin-top: 16px;
+}
+.email_inp::placeholder {
+  padding-left: 30px;
+}
+.message_inp {
+  width: 392px;
+  height: 190px;
+  box-sizing: border-box;
+  /* Neutral/Gray B4B4B4 */
+  border: 1px solid rgb(180, 180, 180);
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.message_inp::placeholder {
+  padding-top: 20px;
+  padding: 24px;
+}
+
+.btn_sub {
+  /* Web/Button-lg */
+  color: rgb(255, 255, 255);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: end;
+  align-items: center;
+  width: 184px;
+  height: 48px;
+  border-radius: 8px;
+
+  /* Primary */
+  background: rgb(12, 104, 244);
+  display: flex;
+  justify-content: center;
+  margin-left: 1000px;
+  margin-top: 24px;
+  margin-bottom: 70px;
+}

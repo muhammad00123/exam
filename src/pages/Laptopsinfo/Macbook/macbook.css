@@ -1,0 +1,367 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.macbook-left {
+  width: 496px;
+  height: 433px;
+}
+
+.macbook-img img {
+  width: 496px;
+  height: 338px;
+  border-radius: 8px;
+}
+
+.macbook-img-5 ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 21px;
+}
+
+.macbook-middle {
+  width: 343px;
+  height: 397px;
+}
+
+.macbook-middle h1 {
+  color: rgb(0, 0, 0);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.rate-star {
+  width: 43px;
+  height: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3px 7px 3px 7px;
+  border-radius: 4px;
+  background: rgb(6, 58, 136);
+}
+
+.rate-star ul li {
+  /* Web/caption-md */
+  color: rgb(255, 255, 255);
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 15px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.ioStar {
+  color: #ffffff;
+  width: 24.23px;
+  height: 24.23px;
+}
+
+.vertical-line {
+  width: 1px;
+  height: 24px;
+  /* Neutral/Gray 717171 */
+  border: 1px solid rgb(113, 113, 113);
+  margin-left: 5px;
+}
+
+.macbook-rate {
+  display: flex;
+  align-items: center;
+}
+
+.ciShop {
+  color: rgb(12, 104, 244);
+  width: 24.23px;
+  height: 24.23px;
+}
+
+.srock ul li {
+  display: flex;
+  align-items: center;
+}
+
+.srock ul {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+}
+
+.select-color1 {
+  width: 24px;
+  height: 24px;
+  border-radius: 32px;
+  background: rgb(149, 149, 149);
+}
+
+.select-color2 {
+  width: 24px;
+  height: 24px;
+  border-radius: 32px;
+  background: rgb(40, 40, 40);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+
+.select-color-krug {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.select-color {
+  width: 196px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.befor {
+  color: rgb(113, 113, 113);
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0%;
+  text-align: left;
+  list-style: initial;
+  margin-top: 7.5px;
+}
+
+.aplle li {
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 7.5px;
+}
+
+.macbook-brend {
+  display: flex;
+  align-items: center;
+  gap: 65px;
+}
+
+.macbook-left-middle-right {
+  display: flex;
+  gap: 35px;
+}
+
+.macbook-middle {
+  margin-top: 30px;
+}
+
+.srock {
+  margin-top: 20px;
+}
+
+.select-color {
+  margin-top: 25px;
+}
+
+.macbook-rate {
+  margin-top: 10px;
+}
+
+.macbook-brend {
+  margin-top: 40px;
+}
+
+.macbook_card {
+  width: 312px;
+  height: 410px;
+  border-radius: 8px;
+
+  /* shadow 1 */
+  box-shadow: -2px 2px 15px -1px rgba(113, 113, 113, 0.12);
+  background: rgb(255, 255, 255);
+  padding: 20px;
+}
+
+.price {
+  /* Web/H5 */
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.seller {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.disc {
+  display: flex;
+  align-items: center;
+  /* Web/H6 */
+  color: rgb(244, 94, 12);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.last_p {
+  display: flex;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.last {
+  /* Web/Body-sm */
+  color: rgb(113, 113, 113);
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 17px;
+  letter-spacing: 0%;
+  text-align: left;
+  top: 4px;
+}
+
+.radio_input {
+  align-items: center;
+  gap: 5px;
+  margin-top: 15px;
+  display: flex;
+}
+
+.now {
+  /* Web/Body-md */
+  color: rgb(68, 68, 68);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.chose {
+  /* Web/Body-xs */
+  color: rgb(68, 68, 68);
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 15px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-left: 24px;
+  margin-top: 2px;
+}
+
+.months {
+  display: flex;
+  justify-content: space-between;
+}
+.month {
+  height: 51px;
+  width: 60px;
+  margin-top: 15px;
+  box-sizing: border-box;
+  /* Neutral/Gray EDEDED */
+  border: 1px solid rgb(237, 237, 237);
+  border-radius: 4px;
+
+  /* White */
+  background: rgb(255, 255, 255);
+}
+.num {
+  /* Web/Body-lg */
+  color: rgb(9, 81, 190);
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 22px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-top: 7px;
+  text-align: center;
+}
+.mon {
+  /* Web/Overline-sm */
+  color: rgb(9, 81, 190);
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 15px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.dollar {
+  /* Web/Body-sm */
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 17px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin: 16px;
+}
+
+.dollar span {
+  /* Web/Body-xs */
+  color: rgb(113, 113, 113);
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 300;
+  line-height: 15px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.btnw {
+  /* Web/Button-lg */
+  color: rgb(255, 255, 255);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 264px;
+  height: 48px;
+  border-radius: 8px;
+
+  /* Primary */
+  background: rgb(12, 104, 244);
+}
+.btnq {
+  width: 264px;
+  height: 48px;
+  margin-top: 8px;
+  /* Web/Button-lg */
+  color: rgb(12, 104, 244);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: center;
+  box-sizing: border-box;
+  /* Primary */
+  border: 2px solid rgb(12, 104, 244);
+  border-radius: 8px;
+}

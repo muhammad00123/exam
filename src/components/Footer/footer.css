@@ -1,0 +1,160 @@
+    footer {
+    background: rgb(2, 23, 54);
+    margin-top: 20px;
+}
+
+
+.footer-up-start {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 48px;
+}
+ul h1 {
+    /* Web/H6 */
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+ul li {
+    /* Web/Body-md */
+    color: rgb(203, 203, 203);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+    margin-left: 5px;
+    
+}
+
+.footer-up-singup-text {
+    /* Web/H6 */
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+.footer-up-input {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 16px;
+}
+
+
+.footer-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: none;
+    margin-left: 8px;
+    color: #ccc;
+}
+
+.footer-up-icon-user {
+    width: 24px;
+    height: 24px;
+    color: rgb(249, 249, 249);
+}
+
+.footer-up-icon-next {
+    width: 24px;
+    height: 24px;
+    color: rgb(249, 249, 249);
+}
+
+.footer-up-icons-it {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-top: 16px;
+}
+
+
+.icons-it {
+    width: 26px;
+    height: 26px;
+    color: rgb(255, 255, 255);
+
+}
+
+.question {
+    width: 40px;
+    height: 40px;
+    border-radius: 48px;
+    background: rgb(174, 205, 251);
+}
+
+.arow {
+    width: 40px;
+    height: 40px;
+    border-radius: 48px;
+    background: rgb(174, 205, 251);
+    margin-top: 121px;
+}
+
+.footer-up-kard {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.footer-up-kard img {
+    width: 32px;
+    height: 24px;
+}
+
+
+.footer-dowm-h1 {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.footer-dowm-h1 h1 {
+    /* Mobile/Caption */
+    color: rgb(203, 203, 203);
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+
+
+.footer-dowm-cookie {
+    display: flex;
+    align-items: center;
+    gap: 48px;
+}
+
+.footer-down-start {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 0px;
+}
+
+h2 {
+
+    color: rgb(203, 203, 203);
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 0%;
+    text-align: left;
+}

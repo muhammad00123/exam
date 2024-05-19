@@ -1,0 +1,82 @@
+.curret_titles {
+    margin-top: 50px;
+    gap: 35px;
+    display: flex;
+  }
+  .current_title {
+    /* Web/Body-xl */
+    color: rgb(113, 113, 113);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 28px;
+    letter-spacing: 0%;
+    text-align: center;
+  }
+  .crhr {
+    /* Line 27 */
+    width: 881px;
+    height: 0;
+    left: 451px;
+    top: 344.5px;
+  }
+  .current_main {
+    border-radius: 4px;
+  
+    /* Neutral/Gray F6F6F6 */
+    background: rgb(246, 246, 246);
+    margin-top: 45px;
+    width: 880px;
+    height: 97px;
+  }
+  .currrent_titles {
+    width: 170.75px;
+    height: 65px;
+  }
+  .order {
+    /* Web/H6 */
+    color: rgb(12, 12, 12);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-top: 16px;
+  }
+  
+  .num {
+    /* Web/Body-lg */
+    color: rgb(12, 12, 12);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 22px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 24px;
+  }
+  .current_main {
+    display: flex;
+    gap: 20px;
+  }
+  .status {
+    /* Web/Button-lg */
+    color: rgb(12, 104, 244);
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 35px;
+  }
+  
+  .mac_fotos{
+      display: flex;
+      margin-top: 26px;
+      gap: 30px;
+  }
+  .mac_foto img{
+      width: 104px;height: 116px;
+  }

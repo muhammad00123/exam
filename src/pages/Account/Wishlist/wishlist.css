@@ -1,0 +1,90 @@
+.wish {
+  /* Web/H5 */
+  color: rgb(12, 12, 12);
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-right: 200px;
+  margin-top: 150px;
+}
+
+.see {
+  /* Web/Body-md */
+  color: rgb(113, 113, 113);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 100px;
+  margin-top: 8px;
+}
+.watch_card {
+  width: 288px;
+  height: 347px;
+  border-radius: 8px;
+
+  /* shadow 2 */
+  box-shadow: -2px 2px 20px -1px rgba(113, 113, 113, 0.2);
+  /* White */
+  background: rgb(255, 255, 255);
+}
+
+.watch_card_suptitles {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+}
+.watch_card_img {
+  width: 272px;
+  height: 202px;
+  margin-left: 20px;
+}
+.watch_cards {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.watch_card_title {
+  /* Web/Body-md */
+  color: rgb(6, 58, 136);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+  white-space: nowrap; /* Prevents text from wrapping to the next line */
+  overflow: hidden; /* Ensures the overflowing text is clipped */
+  text-overflow: ellipsis;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+.add {
+  width: 150px;
+  height: 48px;
+  box-sizing: border-box;
+  /* Primary */
+  border: 2px solid rgb(12, 104, 244);
+  border-radius: 8px; /* Web/Button-lg */
+  color: rgb(12, 104, 244);
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0%;
+  text-align: center;
+  margin-left: 10px;
+}
+.watch_basket{
+  margin-right: 10px;
+}
